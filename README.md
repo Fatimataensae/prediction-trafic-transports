@@ -13,4 +13,3 @@ de titres de transport avec évaluation comparative des modèles.
 Python, Scikit-learn, Pandas, NumPy
 
 ## 📊 Résultats
-[Ajoute ici tes métriques ou une capture d'écran]
